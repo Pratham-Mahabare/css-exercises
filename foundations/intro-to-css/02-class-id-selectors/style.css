@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd {
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+  background-color: #ffb6c1;
+}
+
+#one-id {
+  color: hsl(230, 70%, 44%);
+  font-size: 36px;
+}
+
+.add {
+  font-size: 24px;
+}
+
+#another {
+  background-color: rgb(114, 238, 105);
+  font-size: 24px;
+  font-weight: bold;
+}
